@@ -37,9 +37,9 @@
     "sicoob"
   ],
   "author": {
-    "name": "Rômulo Cabral Santos",
-    "email": "romulosanttos1@gmail.com",
-    "homepage": "https://romulosanttos.github.io/"
+    "name": "Adonis mendes",
+    "email": "adonisinoda07@gmail.com",
+    "homepage": "https://github.com/AdonisinodA"
   },
   "license": "ISC",
   "engines": {
@@ -56,6 +56,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Romulosanttos/gerar-boletos.git"
+    "url": "git+https://github.com/AdonisinodA/gerar-boleto"
   }
 }
