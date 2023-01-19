@@ -1,6 +1,6 @@
 {
   "name": "@adonisinoda/gerar-boletos",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "description": "Gerar boletos para vários bancos",
   "main": "lib/index.js",
   "directories": {
@@ -9,6 +9,7 @@
     "test": "tests"
   },
   "scripts": {
+    "publish": "npm publish --access public",
     "test": "nodeunit ./tests/*test.js && nodeunit ./tests/boleto/bancos/*test.js && nodeunit ./tests/boleto/*test.js",
     "lint": "eslint .",
     "gerarBradesco": "node ./examples/gerar-boleto-bradesco.js",
