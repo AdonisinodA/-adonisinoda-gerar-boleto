@@ -1,6 +1,6 @@
 {
   "name": "@adonisinoda/gerar-boletos",
-  "version": "1.4.10",
+  "version": "1.4.11",
   "description": "Gerar boletos para vários bancos",
   "main": "lib/index.js",
   "directories": {
