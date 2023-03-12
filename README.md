@@ -3,8 +3,8 @@
 #### NPM badges
 <!-- [START badges] -->
 [![NPM gerar-boletos package](https://img.shields.io/npm/v/gerar-boletos.svg)](https://npmjs.org/package/gerar-boletos)
-[![npm downloads](https://img.shields.io/npm/dm/gerar-boletos.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=gerar-boletos&from=2017-01-1)
-[![npm downloads](https://img.shields.io/npm/dt/gerar-boletos.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=gerar-boletos&from=2017-01-1)
+[![npm downloads](https://img.shields.io/npm/dm/gerar-boletos.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=@adonisinoda/gerar-boletos&from=2017-01-1)
+[![npm downloads](https://img.shields.io/npm/dt/gerar-boletos.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=@adonisinoda/gerar-boletos&from=2017-01-1)
 <!-- [END badges] -->
 
 Biblioteca em Node.js para geração de boletos utilizando PDFKit 
