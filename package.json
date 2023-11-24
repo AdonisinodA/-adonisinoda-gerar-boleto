@@ -47,7 +47,10 @@
   },
   "dependencies": {
     "base64-stream": "^1.0.0",
+    "boletos-desc-br": "^3.0.0",
+    "i": "^0.3.7",
     "moment": "^2.24.0",
+    "npm": "^10.2.4",
     "pdfkit": "0.10.0"
   },
   "devDependencies": {
