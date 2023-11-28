@@ -38,3 +38,5 @@ const banco = new Boleto();
     const file = await writeFileSync(pathCurrent, resultado["base64"])
   // console.log("🚀 ~ file: teste.js:39 ~ teste:", teste);
 })();
+
+// NOSSO NUMERO TEM UM DIGITO VERIRFICADOR EXEMPLO 99999-[DIGITO VERIFICADOR]
