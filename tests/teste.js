@@ -7,10 +7,7 @@ const boletofunc = require("boletos-desc-br");
 
 class Boleto {
   async boletoParaBuffer(gerarBoleto) {
-    console.log(
-      "🚀 ~ file: index.ts:8 ~ BoletoService ~ boletoParaBuffer ~ gerarBoleto:",
-      gerarBoleto.banco
-    );
+   
     let buffer = "";
     const boleto = { ...gerarBoleto, banco: new Bancos[gerarBoleto.banco]() };
 
