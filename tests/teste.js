@@ -32,11 +32,12 @@ class Boleto {
 
 const banco = new Boleto();
 (async () => {
-  //   const resultado = await banco.boletoParaBuffer(dadosTeste.boletos[0]);
-  //   const pathCurrent = join(__dirname,"..", 'resultado.json')
-  const teste = boletofunc.dadosBoleto(
-    "00197954400000104700000002840572000150486517"
-  ); // boleto válido
-  //   const file = await writeFileSync(pathCurrent, resultado["base64"])
-  console.log("🚀 ~ file: teste.js:39 ~ teste:", teste);
+    const resultado = await banco.boletoParaBuffer(dadosTeste.boletos[0]);
+    const pathCurrent = join(__dirname,"..", 'resultado.json')
+  // const teste = boletofunc.dadosBoleto(
+    // "00197954400000104700000002840572000150486517"
+  // ); 
+  // boleto válido
+    const file = await writeFileSync(pathCurrent, resultado["base64"])
+  // console.log("🚀 ~ file: teste.js:39 ~ teste:", teste);
 })();

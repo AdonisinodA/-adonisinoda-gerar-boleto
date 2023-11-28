@@ -1,4 +1,4 @@
-interface boleto {
+ interface boleto  {
   banco: string; // exemplo : new Bancos.Caixa()
   codigoDeBarras: string;
   descricaoLocalDePagamento: string[];
