@@ -1,6 +1,6 @@
 {
   "name": "@adonisinoda/gerar-boletos",
-  "version": "1.4.17",
+  "version": "1.4.18",
   "description": "Gerar boletos para vários bancos",
   "main": "lib/index.js",
   "directories": {
@@ -10,7 +10,7 @@
   },
   "scripts": {
     "publish": "npm publish --access public",
-    "test": "nodeunit ./tests/*test.js && nodeunit ./tests/boleto/bancos/*test.js && nodeunit ./tests/boleto/*test.js",
+    "test": "node ./tests/chamadaFuncaoTeste.js",
     "lint": "eslint .",
     "gerarBradesco": "node ./examples/gerar-boleto-bradesco.js",
     "gerarCecred": "node ./examples/gerar-boleto-cecred.js",
@@ -43,7 +43,7 @@
   },
   "license": "ISC",
   "engines": {
-    "node":"^18"
+    "node": "^18"
   },
   "dependencies": {
     "base64-stream": "^1.0.0",

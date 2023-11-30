@@ -1,0 +1,926 @@
+{
+  "_id": "a6s4d6as4d654sa65d4",
+  "atualizadoem": "1696302062312",
+  "boletos": [
+    {
+      "_id": "6as4d65as4d654sa65d4",
+      "baixado": false,
+      "banco": "BancoBrasil",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-05-11T00:00:00",
+          "processamento": "2023-05-12",
+          "vencimento": "2023-05-31T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022123000",
+        "valor": 334.14
+      },
+      "codigoDeBarras": "10493000000000334149032746000100040014897896",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 6.68.",
+        "Juros de mora de R$ 0.33 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": null
+    },
+    {
+      "_id": "645e515e4c04fc41b46c30cd",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-05-11T00:00:00",
+          "processamento": "2023-05-12",
+          "vencimento": "2023-05-31T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022123000",
+        "valor": 114.3
+      },
+      "codigoDeBarras": "10492000000000114309032746000100040014897900",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.29.",
+        "Juros de mora de R$ 0.11 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": null
+    },
+    {
+      "_id": "645e515e4c04fc41b46c30ce",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-05-11T00:00:00",
+          "processamento": "2023-05-12",
+          "vencimento": "2023-06-30T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022123000",
+        "valor": 114.5
+      },
+      "codigoDeBarras": "10498000000000114509032746000100040014897918",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.29.",
+        "Juros de mora de R$ 0.11 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": null
+    },
+    {
+      "_id": "645e515e4c04fc41b46c30cf",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-05-11T00:00:00",
+          "processamento": "2023-05-12",
+          "vencimento": "2023-07-31T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022123000",
+        "valor": 114.5
+      },
+      "codigoDeBarras": "10499000000000114509032746000100040014897926",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.29.",
+        "Juros de mora de R$ 0.11 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": null
+    },
+    {
+      "_id": "63dd60ba761727001055313e",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-02-06T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973001",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10493925300000100799032746000100040014517384",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "pago": false,
+      "parcela": 1
+    },
+    {
+      "_id": "63dd60ba761727001055313f",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-03-06T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973002",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10497928100000100799032746000100040014517392",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "pago": false,
+      "parcela": 2
+    },
+    {
+      "_id": "63dd60ba7617270010553140",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-04-06T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973003",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10498931200000100799032746000100040014517406",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": 3
+    },
+    {
+      "_id": "63dd60ba7617270010553141",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-05-08T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973004",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10493934400000100799032746000100040014517414",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": 4
+    },
+    {
+      "_id": "63dd60ba7617270010553142",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-06-06T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973005",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10492937300000100799032746000100040014517422",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": 5
+    },
+    {
+      "_id": "63dd60ba7617270010553143",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-07-06T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973006",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10495940300000100799032746000100040014517430",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": 6
+    },
+    {
+      "_id": "63dd60ba7617270010553144",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-08-07T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973007",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10491943500000100799032746000100040014517449",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": 7
+    },
+    {
+      "_id": "63dd60ba7617270010553145",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-09-06T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973008",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10495946500000100799032746000100040014517457",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": 8
+    },
+    {
+      "_id": "63dd60ba7617270010553146",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-10-06T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973009",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10491949500000100799032746000100040014517465",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": 9
+    },
+    {
+      "_id": "63dd60ba7617270010553147",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-11-06T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973010",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10498952600000100799032746000100040014517473",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": 10
+    },
+    {
+      "_id": "63dd60ba7617270010553148",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2023-12-06T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973011",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10492955600000100799032746000100040014517481",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": 11
+    },
+    {
+      "_id": "63dd60ba7617270010553149",
+      "baixado": false,
+      "banco": "Caixa",
+      "beneficiario": {
+        "cnpj": "10.700.454/0001-12",
+        "dadosBancarios": {
+          "agencia": "2735",
+          "agenciaDigito": "0",
+          "carteira": "14",
+          "conta": "903600",
+          "contaDigito": "6",
+          "nossoNumero": "000000001234567"
+        },
+        "endereco": {
+          "bairro": "Nome bairro",
+          "cep": "06.547-345",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "R. Deputado José Paulo,123"
+        },
+        "nome": "Empresa ficticia"
+      },
+      "boleto": {
+        "datas": {
+          "documentos": "2023-02-01T00:00:00",
+          "processamento": "2023-02-03",
+          "vencimento": "2024-01-08T00:00:00"
+        },
+        "especieDocumento": "DM",
+        "numeroDocumento": "00022973012",
+        "valor": 100.79
+      },
+      "codigoDeBarras": "10491958900000100799032746000100040014517490",
+      "descricaoLocalDePagamento": [
+        "PREFERENCIALMENTE NAS CASAS LOTÉRICAS ATÉ O VALOR LIMITE"
+      ],
+      "instrucoes": [
+        "NÃO RECEBER  APÓS 10 DIAS  DO VENCIMENTO",
+        "APÓS O VENCIMENTO PAGAR SOMENTE NO BANCO DO BRASIL",
+        "Após o vencimento, multa de R$ 2.02.",
+        "Juros de mora de R$ 0.10 por dia de atraso."
+      ],
+      "pagador": {
+        "cpfcnpj": "125.449.123-07",
+        "endereco": {
+          "bairro": "Nome Bairro pagador",
+          "cep": "57123-232",
+          "cidade": "SAO PAULO",
+          "estadoUF": "SP",
+          "logradouro": "José Silva CABRAL TOLEDO"
+        },
+        "idUsuario": "01231",
+        "nome": "JULIA FERNANDA SILVA MENDES"
+      },
+      "parcela": 12
+    }
+  ],
+  "codigoFacil": "00022973-000",
+  "criadoem": "1675452602264",
+  "dataChecarBoleto": "1697511662311",
+  "dataVerificacao": "1675539002235",
+  "solicitacaoId": "62bdac84be6c4b00128cb02b",
+  "visto": false
+}
